@@ -1,0 +1,19 @@
+.login-form {
+  padding: 10px;
+}
+.login-form button {
+  background-color: #fbb875;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+.login-form div input {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.login-form div {
+  margin-bottom: 10px;
+}
